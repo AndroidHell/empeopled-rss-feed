@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+>
+
+<channel>
+
+    <title>Empeopled Feed</title>
+	<link>https://empeopled.com/</link>
+    <atom:link href="https://rss-test-ralkkai.c9.io/rss/rss.xml" rel="self" type="application/rss+xml" />
+    <description>RSS Feed for Empeopled</description>
+    <language>en</language>
+	
+        <item>
+		    <title>Topic of the Day : IRC!</title>
+		    <guid isPermaLink="true">https://empeopled.com/p/66911</guid>
+		    <link>https://empeopled.com/p/66911</link>
+		    <pubDate>Fri, 27 Sept 2015 11:00:00 +1100</pubDate>
+		    <description><![CDATA[ <p>Topic of the day</p> ]]></description> 
+        </item>
+        
+        <item>
+		    <title>The mountains after the rain, here in Chile</title>
+		    <guid isPermaLink="true">https://empeopled.com/p/66899</guid>
+		    <link>https://empeopled.com/p/66899</link>
+		    <pubDate>Fri, 27 Sept 2015 10:35:00 +1100</pubDate>
+		    <description><![CDATA[ <p>Yesterday evening and this morning.</p> ]]></description> 
+        </item>
+        
+        <item>
+		    <title>Meat eaters should be treated like smokers, says Labour's farming spokeswoman</title>
+		    <guid isPermaLink="true">https://empeopled.com/p/66889</guid>
+		    <link>https://empeopled.com/p/66889</link>
+		    <pubDate>Fri, 27 Sept 2015 03:05:00 +1100</pubDate>
+		    <description><![CDATA[ <p>This sounds like a lot of bullshit, but maybe there is something there....</p> ]]></description> 
+        </item>
+	
+</channel>
+</rss>
